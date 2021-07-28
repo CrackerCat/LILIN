@@ -8,13 +8,16 @@
 * cobalt strike [ IF U DIDNT HAVE IT ILL SEND IT ]
 * python2 for the encoder
 
+
+
+
 ### How Does It Work:
 * This is what i can say now : *Lilin uses `APC INJECTION` to inject powershell.exe with the ur cobalt strike shellcode.*
 
 # DEMO:
 
+https://user-images.githubusercontent.com/66519611/127362664-97fa3166-9478-4f84-9c95-3fee7e5463bf.mp4
 
-https://user-images.githubusercontent.com/66519611/127176541-ee890023-fdf9-4f3e-9afc-2b49d8e90cc6.mp4
 
 
 ## If Ur looking to buy it, u will have it with more features than u saw in the vd, And of course u will have that secrete at the end ...
