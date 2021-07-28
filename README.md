@@ -18,7 +18,9 @@ https://user-images.githubusercontent.com/66519611/127176541-ee890023-fdf9-4f3e-
 
 
 ## If Ur looking to buy it, u will have it with more features than u saw in the vd, And of course u will have that secrete at the end ...
-### plz note that im considering adding more features to it [*if im more specific:* adding syscalls]. but i wanted to post it now as a vd here to gain some time, (i need to pay the college lol, so im trying make some customers) 
+## *Here is a hint:*
+
+![2ndwave](https://user-images.githubusercontent.com/66519611/127274130-82834de0-13e9-437d-b483-07e689199a8d.png)
 
 
 <h1 align="center"> <strong><dt> U CAN CONTACT ME AT: </dt></strong>  
